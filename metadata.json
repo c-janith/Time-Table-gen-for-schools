@@ -1,0 +1,5 @@
+{
+  "name": "Smart Scheduler AI",
+  "description": "An AI-powered school timetable generator. Define structure, manage teachers/classes, assign workloads, and let Gemini generate conflict-free schedules.",
+  "requestFramePermissions": []
+}
